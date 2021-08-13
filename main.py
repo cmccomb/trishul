@@ -3,7 +3,6 @@ import subprocess
 import nltk; nltk.download('wordnet')
 from nltk.corpus import wordnet
 import pandas
-import pkg_resources
 
 
 class Trishul:
